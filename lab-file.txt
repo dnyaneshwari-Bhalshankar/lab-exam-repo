@@ -1,0 +1,8 @@
+Github repository useing git command
+
+git init
+git add *
+git commit -m "update"
+git branch -M main
+git remote add origin https://github.com/dnyaneshwari-Bhalshankar/lab-exam-repo.git
+git push -u origin main
